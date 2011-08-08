@@ -1,0 +1,8 @@
+#begin
+
+name               string Casing
+
+mesh_name          string casing.x
+mesh_path          string ./Assets/Objects/Casing/
+
+#end
